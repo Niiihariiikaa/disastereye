@@ -15,6 +15,12 @@ Labels: JSON files containing metadata such as damage type, coordinates, and sev
 
 Targets: Segmentation masks (_lab.png suffix) for training the AI model
 
+![image](https://github.com/user-attachments/assets/f9baf14a-5ec4-4dbc-a8db-038f425add59)
+. In the context of disaster prediction and recovery, U-Net effectively segments satellite images to identify and delineate affected regions, such as flooded areas or damaged infrastructure. This makes it an essential tool for real-time damage assessment and provides valuable insights for decision-making in disaster response operations. By employing U-Net in our platform, DisasterEye can automatically identify disaster zones, helping responders take timely and informed actions 
+ 
+
+
+
 ![image](https://github.com/user-attachments/assets/e5ae6bbf-07f6-4e99-9470-a8f083e01f40)
 
 
@@ -25,6 +31,9 @@ Pre- and Post-Disaster Image Analysis: Compares satellite images to detect chang
 
 Damage Classification: Categorizes damage levels into superficial, medium, and major damage.
 
+![image](https://github.com/user-attachments/assets/d4f750d2-a0f9-40ab-b3ab-71ec45de0b50)
+
+
 Automated Segmentation: Uses UNet-based segmentation and CNN models to extract disaster-affected regions.
 ![image](https://github.com/user-attachments/assets/484a9f4b-0d66-4a2f-b552-8805137052e2)
 ![image](https://github.com/user-attachments/assets/51c6ce35-f7e8-4302-80cf-82c3ab36c01b)
@@ -33,10 +42,8 @@ Automated Segmentation: Uses UNet-based segmentation and CNN models to extract d
 
 
 
-YOLO-Based Victim Detection: Identifies and locates individuals trapped in disaster-stricken areas.
 
-Prediction Models: Forecasts potential disaster impact using historical data and machine learning.
-![image](https://github.com/user-attachments/assets/ff419f45-9efd-43ad-8e67-a33872d0fcfc)
+
 
 
 Nowcast Warnings: Utilizes Google News (GNews) API for real-time disaster alerts and updates.
