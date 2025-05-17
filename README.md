@@ -16,7 +16,7 @@ Labels: JSON files containing metadata such as damage type, coordinates, and sev
 Targets: Segmentation masks (_lab.png suffix) for training the AI model
 
 ![image](https://github.com/user-attachments/assets/f9baf14a-5ec4-4dbc-a8db-038f425add59)
-. In the context of disaster prediction and recovery, U-Net effectively segments satellite images to identify and delineate affected regions, such as flooded areas or damaged infrastructure. This makes it an essential tool for real-time damage assessment and provides valuable insights for decision-making in disaster response operations. By employing U-Net in our platform, DisasterEye can automatically identify disaster zones, helping responders take timely and informed actions 
+In the context of disaster prediction and recovery, U-Net effectively segments satellite images to identify and delineate affected regions, such as flooded areas or damaged infrastructure. This makes it an essential tool for real-time damage assessment and provides valuable insights for decision-making in disaster response operations. By employing U-Net in our platform, DisasterEye can automatically identify disaster zones, helping responders take timely and informed actions 
  
 
 
